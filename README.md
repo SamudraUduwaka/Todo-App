@@ -1,12 +1,12 @@
 # To-do App
 
-A new Flutter project.
+My first approach for a Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+According to my point, this project is a starting approach for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project as well  :)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
