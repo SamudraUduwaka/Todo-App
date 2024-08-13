@@ -5,7 +5,7 @@ My first approach for a Flutter project.
 ### To-do app
 
 | App Interface at First Visit | Can Slide a Task and find the delete button | Adding a new task |
-|------------------------------|-----------------------------------|---------------------------------|
+|-----------------------------|------------------------------------|---------------------------------|
 | ![App](https://github.com/SamudraUduwaka/Todo-App/blob/8ef292c96d155ba204eb172ae7e43a305671b938/Images/Image1.png)   | ![Delete](https://github.com/SamudraUduwaka/Todo-App/blob/ffab740d995e3ba34070a7717b03389354973a5e/Images/Image2.png)   | ![add new](https://github.com/SamudraUduwaka/Todo-App/blob/dd67441c2751c7a591491072911740b948e0392c/Images/Image%203.png)  |
 
 
