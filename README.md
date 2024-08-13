@@ -4,9 +4,7 @@ My first approach for a Flutter project.
 
 ### To-do app
 
-|  | Can Slide a Task and find the delete button | Adding a new task |
-
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| App Interface at First Visit | Can Slide a Task and find the delete button | Adding a new task |
 |-----------------|-----------------|-----------------|
 | Row 1, Cell 1   | Row 1, Cell 2   | Row 1, Cell 3   |
 | Row 2, Cell 1   | Row 2, Cell 2   | Row 2, Cell 3   |
