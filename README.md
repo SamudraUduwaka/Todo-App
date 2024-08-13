@@ -8,7 +8,7 @@ App Interface at First Visit
 ![App](https://github.com/SamudraUduwaka/Todo-App/blob/8ef292c96d155ba204eb172ae7e43a305671b938/Images/Image1.png)
 
 Can Slide a Task and find the delete button
-![Delete]()
+![Delete](https://github.com/SamudraUduwaka/Todo-App/blob/ffab740d995e3ba34070a7717b03389354973a5e/Images/Image2.png)
 
 ## Getting Started
 
