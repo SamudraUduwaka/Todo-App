@@ -4,15 +4,21 @@ My first approach for a Flutter project.
 
 ### To-do app
 
-App Interface at First Visit
+|  | Can Slide a Task and find the delete button | Adding a new task |
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1, Cell 1   | Row 1, Cell 2   | Row 1, Cell 3   |
+| Row 2, Cell 1   | Row 2, Cell 2   | Row 2, Cell 3   |
+| Row 3, Cell 1   | Row 3, Cell 2   | Row 3, Cell 3   |
+
 
 ![App](https://github.com/SamudraUduwaka/Todo-App/blob/8ef292c96d155ba204eb172ae7e43a305671b938/Images/Image1.png)
 
-Can Slide a Task and find the delete button
 
 ![Delete](https://github.com/SamudraUduwaka/Todo-App/blob/ffab740d995e3ba34070a7717b03389354973a5e/Images/Image2.png)
 
-Adding a new task
+
 
 ![add new](https://github.com/SamudraUduwaka/Todo-App/blob/dd67441c2751c7a591491072911740b948e0392c/Images/Image%203.png)
 
